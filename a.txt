@@ -1,7 +1,8 @@
 this is some text 
 
-and another tline
+and another line
 
-add(x,y)
-return(x+y)
-
+add(x,y,z)
+return(x+y+z)
+ 
+alternate history:neat
